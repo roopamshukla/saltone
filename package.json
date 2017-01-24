@@ -1,0 +1,23 @@
+{
+  "name": "bot_api",
+  "version": "1.0.0",
+  "description": "A telegram bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roopamshukla/saltone.git"
+  },
+  "author": "Roopam Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roopamshukla/saltone/issues"
+  },
+  "homepage": "https://github.com/roopamshukla/saltone#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.26.0"
+  }
+}
